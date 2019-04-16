@@ -8,10 +8,10 @@ Objective
 * What variables are required?
 * Show a check of your solution with test data for at least two valid test cases
 
-1. Find the average score
+1) Find the average score: 
 A program is needed to prompt the user operator for ten exam scores, calculate the average score and display the result to the screen. The average score is calculated as the sum of the scores divided by the number of scores.
 
-2. How much water runs off the roof
+2) How much water runs off the roof: 
 How much water runs off a roof in a rain storm?
 
 To calculate the runoff from any given rainfall: 
